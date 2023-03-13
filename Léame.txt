@@ -1,0 +1,23 @@
+Pasos para ejecutar el archivo:
+Paso N°1:
+Instalar las dependencias ( lo que se encuentre en .gitignore)
+node_modules
+
+Paso N°2:
+abrir la consola del navegador de window (window powerShell)
+direccionar el archivo descargado (el proyecto que tiene como nombre "GestionTarteas")
+
+Paso N°3:
+Ya que se esta trabajando con react native, es debido que ya trabajan con 
+"Android Studio - Android Studio and SDK Tools" o "la consola de su celular tener conectado", y 
+ya esta enlasado. (se entiende que todo esta conectado)
+
+Paso N°4:
+desde la consola del navegador de window (window powerShell), abrir dirección del arichivo descargado
+que tiene como nombre "GestionTareas", (asi mismo ya tuvieron que instalar toda las dependecias),
+ejecutar en la consola de window powerShell:
+opción 1:    npx react-native run-android                  (ojo, si no habre "METRO" ejecutar la opción 2)
+opción 2:    npx react-native run-android --port=1234      (deberia ejecutar el programa con "METRO" abierto)
+
+Paso N°5:
+Probar el programa a su gusto. es funcional.

@@ -1,4 +1,5 @@
 Pasos para ejecutar el archivo:
+descargar el arichvo y descomprimir.
 Paso N°1:
 Instalar las dependencias ( lo que se encuentre en .gitignore)
 node_modules
